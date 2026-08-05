@@ -1,0 +1,2 @@
+# Lira
+lira euro usd
